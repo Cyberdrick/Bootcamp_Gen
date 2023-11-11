@@ -2,7 +2,7 @@ package JavaInicial;
 
 import java.util.Scanner;
 
-public class Ex2_par_impar {
+public class L1_Ex2_par_impar {
 
 	public static void main(String[] args) {
 		

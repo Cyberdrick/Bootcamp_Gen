@@ -2,7 +2,7 @@ package JavaInicial;
 
 import java.util.Scanner;
 
-public class Ex4_CaracAnimais {
+public class L1_Ex4_CaracAnimais {
 	
 	public static void main(String[] args) {
 		

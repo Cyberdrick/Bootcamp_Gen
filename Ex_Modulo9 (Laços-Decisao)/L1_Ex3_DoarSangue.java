@@ -2,7 +2,7 @@ package JavaInicial;
 
 import java.util.Scanner;
 
-public class Ex3_DoarSangue {
+public class L1_Ex3_DoarSangue {
 
 		public static void main(String[] args) {
 			

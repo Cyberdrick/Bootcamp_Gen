@@ -2,7 +2,7 @@ package JavaInicial;
 
 import java.util.Scanner;
 
-public class Ex1_LacoCondIF {
+public class L1_Ex1_LacoCondIF {
 
 	public static void main(String[] args) {
 		
